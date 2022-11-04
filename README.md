@@ -11,6 +11,9 @@
 - 💬 Ask me about **Web (React)**
 
 - 📫 How to reach me **ravisenjaliya008@gamil.com**
+
+- 🤓 Eager to learn new things
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
