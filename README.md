@@ -14,7 +14,7 @@
 
 - 🤓 Eager to learn new things
 
-  <a href="/myCV.pdf" download >My Resume </a>
+- 📄 <a href="/myCV.pdf" download >My Resume.. </a>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
