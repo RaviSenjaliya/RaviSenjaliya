@@ -78,7 +78,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=
 
 
 ## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=ravisenjaliya&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ravisenjaliya" /> 
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img
-    src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=RaviSenjaliya&label=Profile%20views&color=0e75b6&style=flat"
+    alt="RaviSenjaliya" /> 
+<a href="https://github.com/RaviSenjaliya?tab=followers"><img
+    src="https://img.shields.io/github/followers/RaviSenjaliya?label=Followers&style=social" alt="GitHub Badge"></a>
