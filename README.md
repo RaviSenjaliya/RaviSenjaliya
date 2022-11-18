@@ -69,8 +69,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=
 <br />
 <br />
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/RaviSenjaliya/github-readme-activity-graph"><img alt="Ravi Senjaliya's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=RaviSenjaliya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 <br />
