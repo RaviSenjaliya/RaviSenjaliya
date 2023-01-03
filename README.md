@@ -14,7 +14,7 @@
 
 - 🤓 Eager to learn new things
 
-- 📄 <a href="myresume.pdf" download >My Resume.. </a>
+- 📄 <a href="https://mypportfolio0.netlify.app/" download >my portfolio website </a>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
