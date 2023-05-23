@@ -19,13 +19,10 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ravi senjaliya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ravi senjaliya" height="30" width="40" /></a>
-  <a href="https://instagram.com/r.v_senjaliya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="r.v_senjaliya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-senjaliya-064058248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-senjaliya-064058248/" height="30" width="40" /></a>
+<a href="https://instagram.com/r.v_senjaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.v_senjaliya" height="30" width="40" /></a>
 </p>
+
 <hr>
 
 
