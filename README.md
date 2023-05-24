@@ -17,7 +17,13 @@
 - 📄 <a href="https://drive.google.com/file/d/14MlAozuizsMFYmNoIlWke05jU5ckgFw5/view?usp=drivesdk" download >My Resume </a>
 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3> Connect with me: </h3>
+<p align="left">
+	<a href="mailto:ravisenjaliya008@gamil.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/RaviSenjaliya"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ravi-senjaliya-064058248/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</p>
 
 
 <hr>
@@ -69,11 +75,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=
 <br />
 <br />
 
-<a href="https://github.com/RaviSenjaliya/github-readme-activity-graph"><img alt="Ravi Senjaliya's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=RaviSenjaliya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br />
-<br />
 
 
 
